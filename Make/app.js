@@ -45,7 +45,7 @@ function agregarMensaje(tipo,texto,claseExtra=""){
     async function obtenerRespuesta(pregunta){
 
     const response = await fetch(
-        "https://hook.eu1.make.com/f8bbwjpt253530wprqjsgwf5tda3dcyn",
+        "https://hook.eu1.make.com/fagk5421o273fwk78hh19m1pkpms6gon",
         {
 
             method:"POST",
